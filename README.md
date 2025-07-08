@@ -64,13 +64,7 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AYUSHMANGH/AYUSHMANGH/output/snake.svg" alt="Snake animation" />
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AYUSHMANGH/AYUSHMANGH/output/pacman-contribution-graph-dark.svg">
